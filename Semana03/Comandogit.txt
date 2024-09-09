@@ -17,3 +17,5 @@ Para enviar de git --> github (Primera vez)
 Para enviar de git --> github (segunda vez)
 * git push
 *******************************************
+Para clonar proyectos desde github
+- git clone URL_github
