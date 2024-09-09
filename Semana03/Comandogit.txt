@@ -19,3 +19,8 @@ Para enviar de git --> github (segunda vez)
 *******************************************
 Para clonar proyectos desde github
 - git clone URL_github
+*******************************************
+Cómo eliminar el "origin" de un repositorio Git
+* git remote -v
+* git remote rm origin
+https://desarrolloweb.com/faq/como-eliminar-el-origin-de-un-repositorio-git
