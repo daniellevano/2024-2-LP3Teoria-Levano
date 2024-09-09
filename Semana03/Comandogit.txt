@@ -1,0 +1,12 @@
+RESUMEN GIT
+
+* Crear repositorio: git init
+* Crear carpeta: mkdir
+--------------------------
+* Working directory a Staging area: git add -A
+* SA -> Repositorio: git commit -m "mensaje"
+--------------------------------
+* listar versiones: git log
+* diferencias entre cada commit: git log -p
+
+
